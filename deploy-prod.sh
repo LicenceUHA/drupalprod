@@ -7,6 +7,9 @@ composer install
 # mise a jour de la bdd drupal
 drush updb -y
 
+#Export des configs de prod
+drush csex prod -y
+
 # import des configurations
 drush cim -y
 
