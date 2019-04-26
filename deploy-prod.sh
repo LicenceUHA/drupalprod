@@ -13,6 +13,7 @@ drush csex prod -y
 #Ajout des config de prod
 git add config/prod
 git commit -m "ajout des config de prod"
+
 # import des configurations
 drush cim -y
 
