@@ -27,11 +27,8 @@
         "drupal/core": "^8.6.0",
         "drupal/maillog": "1.x-dev",
         "drupal/module_filter": "^3.1",
-<<<<<<< HEAD
         "drupal/webform": "^5.2",
         "twig/twig": "1.37.1",
-=======
->>>>>>> 16a655a899392bb99fab50c2632ec4cd8e663d32
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
